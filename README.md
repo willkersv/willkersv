@@ -1,7 +1,7 @@
 ### Opa, salve!👋
 
 - 🖥️ Backend developer
-- ☕️ Java | Spring Boot
+- ☕️ Java | Spring Boot | Angular
 - 🌱 Paraná
 - 📖 Always learning and experimenting with new technologies!
   
