@@ -1,7 +1,7 @@
 ### Opa, salve! tudo bem?👋
 
-- 🖥️ Backend developer
-- ☕️ Java | Spring Boot | Angular
+- 🖥️ Full Stack Developer focused on back-end
+- ☕️ Java | Spring Boot | Angular | SQL 
 - 🌱 Paraná
 - 📖 Always learning and experimenting with new technologies!
   
